@@ -2,6 +2,12 @@
 
 A smart interactive bot for Discord that collects and manages X (Twitter) account credentials securely using modals and button-based UI.
 
+## switch Language:
+[العربية](/README_AR.md)
+==========================
+
+
+
 ## 🧩 Features
 - ➕ Add account via interactive modal
 - 📄 List all saved emails
@@ -46,3 +52,9 @@ All account info is saved in:
 ```
 accounts.json
 ```
+
+
+## Switch to Arabic:
+
+[README_AR.md](/README_AR.md)
+
