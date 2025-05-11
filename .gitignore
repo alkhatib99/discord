@@ -1,0 +1,36 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+
+# 📦 Virtual Envs
+env/
+venv/
+.venv/
+
+# ⚙️ VS Code & IDEs
+.vscode/
+.idea/
+*.swp
+
+# 🔐 Secrets
+.env
+accounts.json
+
+# 📁 versions 
+
+
+# 📝 Docs and Notes
+
+# 📚 Books and PDFs
+# 🧪 Testing
+*.log
+*.sqlite3
+
+# 💻 System files
+.DS_Store
+Thumbs.db
